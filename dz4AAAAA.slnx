@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OrdersService/OrdersService.csproj" />
+  <Project Path="PaymentsService/PaymentsService.csproj" />
+</Solution>

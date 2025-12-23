@@ -1,0 +1,8 @@
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\PaymentsService.csproj.AssemblyReference.cache
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\PaymentsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\PaymentsService.AssemblyInfoInputs.cache
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\PaymentsService.AssemblyInfo.cs
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\PaymentsService.csproj.CoreCompileInputs.cache
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\PaymentsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danver\Desktop\HSE\kpo\dz4AAAAA\PaymentsService\obj\Debug\net8.0\PaymentsService.sourcelink.json
